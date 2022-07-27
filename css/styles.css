@@ -1,0 +1,92 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: larger ;
+    font-weight: bold;
+    background-color: #EFFFFD;
+}
+.top_container{
+    margin: 100px 0;
+    background-color: #EFFFFD;
+}
+
+.middle_container{
+   margin: 100px 0;
+}
+
+.bottom_container{
+    padding-top: 30px;
+    background-color:  #42C2FF;
+    height: 100px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto ;
+    text-align: left;
+    line-height: 2;
+}
+
+.clang{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.coock{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+h1{
+    color: #40DFEF;
+    font-weight: normal;
+    margin: 50px auto 0 auto;
+    font-size: 5.625rem;
+    font-family: 'Satisfy', cursive;
+}
+
+h2{
+    color: #54BAB9;
+    font-weight: normal;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 2.5rem;
+}
+
+h3{
+    color: #D18CE0;
+    font-weight: normal;
+    font-family: 'Arimo', sans-serif;
+    font-size: 1.875rem;
+}
+
+.intro{
+    width: 30%;
+    margin: 0 auto 0 auto;
+    text-align: center;
+}
+.top_cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom_cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.hrline{
+    border-color: #A2B38B;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 7px;
+    width: 5%;   
+}
+
+.btn{
+    width: 30px;
+    height: 50px;
+}
